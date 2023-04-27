@@ -1,2 +1,3 @@
 This is the first line of code for my Project 1
 Added the 2nd line for Project1
+3rd line for Project1
